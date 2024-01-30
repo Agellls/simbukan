@@ -1,6 +1,6 @@
 ## How To Use
 ```
-$cd mpujeru
+$cd simbukan
 ```
 ```
 $pip install -r requirements.txt
